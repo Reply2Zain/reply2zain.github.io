@@ -1,0 +1,13 @@
+{
+  "title": "Zain Aaban",
+  "text": "Software Developer",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
